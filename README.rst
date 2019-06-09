@@ -23,8 +23,8 @@ Usage
 
 
 - 'justify' function parameters:
-    - content - text with newlines and delimiters, to be converted /
-                from version 0.1.2 it also can be list(tuple) of lists(tuples)
+
+    - content - text with newlines and delimiters, to be converted. From version 0.1.2 it also can be list(tuple) of lists(tuples)
 
     - grid - True/False value, grid inside; default is True
 
